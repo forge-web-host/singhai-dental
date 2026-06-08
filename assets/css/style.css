@@ -569,6 +569,11 @@ section { padding: 36px 20px; }
 }
 
 .service-card {
+    aspect-ratio: auto;
+    min-height: 170px;
+  }
+
+.service-card {
   background: var(--cream);
   border-radius: 14px;
   padding: 16px 14px;
